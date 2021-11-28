@@ -12,6 +12,9 @@ h1{
     display: block;
     margin: auto ;
 }
+p{
+    margin: 0.5rem;
+}
 .maindiv{
     text-align: center;
 }
@@ -38,4 +41,7 @@ h1{
     margin: 1rem;
     color: blue;
     font-size: 1.2rem;
+}
+#check-button:hover{
+
 }
